@@ -1,6 +1,6 @@
 [build]
   command="npm run build"
-  publish="demo-store-core/packages/website/.next"
+  publish="demo-store-core/packages/website/out"
 
 [[plugins]]
   package = "@netlify/plugin-nextjs"
